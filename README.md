@@ -227,8 +227,7 @@ This indicates that productivity-related behaviors strongly influence exam perfo
 ---
 
 ##  Future Improvements
-
--  
+ 
 - Build a full ML pipeline  
 - Deploy model using Flask or FastAPI  
 - Create a simple web interface   
