@@ -41,8 +41,8 @@ The goal is to identify the most impactful factors affecting student exam scores
 ### 1️ Clone the repository
 
 ```bash
-git clone https://github.com/majedalsulami/student-performance-prediction.git
-cd student-performance-prediction
+git clone https://github.com/majedalsulami/Student-performance-prediction.git
+cd Student-performance-prediction
 ```
 
 ### 2️ Install required libraries
